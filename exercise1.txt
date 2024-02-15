@@ -1,0 +1,3 @@
+Ur first exercise is to create a site with heading my Blog 
+
+it will consist of two sub heading one below another and both subheading will have content of 150 words 
