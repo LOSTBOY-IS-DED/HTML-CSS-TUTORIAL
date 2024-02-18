@@ -1,0 +1,2 @@
+generate a web design with html and bit of css
+ the website should contain one main heading and two sub heading with 200 words of content the color of all the heading will be green and both the para will have two different background colour divisions and add on to these change the background color of only two to three words in both the para
