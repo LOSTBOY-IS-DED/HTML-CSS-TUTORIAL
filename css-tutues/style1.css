@@ -1,0 +1,37 @@
+/* lets talk about universal selector */
+/* *{
+    color: blue;
+} */
+/* we use this rarely and we use * for calling the universal selector in css */
+
+
+header{
+    background-color: #f0ebeb;
+}
+
+section.my-article{
+    background-color: #f2e9e9;
+}
+
+/* p{
+    color: red;
+} */
+/* we can write this as */
+
+header p {
+    color: red;  
+}
+/* this is known as descendant selector or combinator  */
+
+li a {
+    color: blue;
+}
+
+section.my-article>h2{
+    color: green;
+}
+
+h2+p{
+    color: orangered;
+}
+/* this means change the colour of all the p which comes just after h2 */
