@@ -1,0 +1,22 @@
+/* inline css > id selector > class selector > element selector */
+/* if there are two classes given two a element then the one written below will get more preference  */
+/* this is how specifity works in css */
+
+
+h1{
+    color: green;
+}
+
+.h1class{
+    color: red;
+}
+/* why this oneis getting more preference ? */
+
+#h1id{
+    color: blue;
+}
+
+/* // how to calculate specifity  */
+
+/* __ , __ ,__ , __  */
+/* we will fill the numbers in given order of specifity the element which will have higher value will have more specificity */
